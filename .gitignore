@@ -1,0 +1,9 @@
+# Ignore Everything
+*
+
+# Except for these files / folders
+
+!.gitignore
+
+!data/
+!data/**
