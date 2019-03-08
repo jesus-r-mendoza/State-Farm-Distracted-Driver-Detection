@@ -4,3 +4,6 @@
 # Except for these files / folders
 
 !.gitignore
+
+!src/
+!src/**
