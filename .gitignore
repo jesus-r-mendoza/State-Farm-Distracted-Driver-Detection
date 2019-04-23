@@ -1,5 +1,7 @@
 # Ignore Everything
-src/resource
+src/ipynb/resource
+src/ipynb/resource/**
+
 
 # Except for these files / folders
 
