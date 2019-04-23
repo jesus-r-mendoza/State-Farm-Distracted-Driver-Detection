@@ -1,9 +1,8 @@
 # Ignore Everything
-*
 
 # Except for these files / folders
 
 !.gitignore
-
-!src/
-!src/**
+src/ipynb/label
+src/ipynb/testDF
+src/ipynb/trainDF
