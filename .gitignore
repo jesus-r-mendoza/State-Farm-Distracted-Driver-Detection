@@ -1,11 +1,8 @@
 # Ignore Everything
-*
+src/resource
 
 # Except for these files / folders
 
 !.gitignore
 
-!src/
-!src/**
 
-src/ipyn/testDF
