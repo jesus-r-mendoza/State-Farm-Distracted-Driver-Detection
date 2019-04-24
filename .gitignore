@@ -1,7 +1,7 @@
 # Ignore Everything
-src/ipynb/resource
-src/ipynb/resource/**
-
+src/ipynb/labelsDF
+src/ipynb/trainDF
+src/ipynb/testDF
 
 # Except for these files / folders
 
