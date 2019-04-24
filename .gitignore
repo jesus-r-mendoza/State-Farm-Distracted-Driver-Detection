@@ -7,3 +7,9 @@
 
 !src/
 !src/**
+
+# But also ignore these ..
+
+src/ipynb/labelsDF
+src/ipynb/trainDF
+src/ipynb/testDF
