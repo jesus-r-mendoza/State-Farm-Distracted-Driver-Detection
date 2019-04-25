@@ -1,10 +1,9 @@
-# Ignore Everything
-src/ipynb/labelsDF
-src/ipynb/trainDF
-src/ipynb/testDF
-
 # Except for these files / folders
 
 !.gitignore
 
+src/ipynb/label
+src/ipynb/testDF
+src/ipynb/trainDF
+src/ipynb/labelsDF
 
