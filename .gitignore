@@ -1,9 +1,16 @@
-# Except for these files / folders
+# Ignore Everything
+*
 
+# Except for these files / folders
 !.gitignore
 
-src/ipynb/label
-src/ipynb/testDF
-src/ipynb/trainDF
-src/ipynb/labelsDF
+!src/
+!src/**
 
+# But also ignore these ..
+
+src/ipynb/labelsDF
+src/ipynb/trainDF
+src/ipynb/testDF
+src/ipynb/.ipynb_checkpoints/
+src/ipynb/testDF-with-name
